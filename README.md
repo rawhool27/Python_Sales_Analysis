@@ -1,4 +1,4 @@
-# Python_Sales_Analysis
+# Python_Diwali_Sales_Analysis
 This project leverages the power of Python to provide comprehensive sales data insights. It includes advanced data processing and visualization techniques to analyze sales trends, identify high-performing products, predict future sales, and uncover critical business insights. Key features include:
 
 Dynamic Data Visualization: Interactive charts and graphs to explore sales performance.
